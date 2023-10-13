@@ -1,3 +1,4 @@
+<img width="420" alt="github-codespace" src="https://github.com/haticecan37/kubernetes/assets/140960306/06c74dec-58bb-42ea-997c-aaee99a39a1f">
 # Kubernetes (K8s)
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569) [![Go Report Card](https://goreportcard.com/badge/github.com/kubernetes/kubernetes)](https://goreportcard.com/report/github.com/kubernetes/kubernetes) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/kubernetes/kubernetes)
